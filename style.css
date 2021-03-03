@@ -569,7 +569,7 @@ section .title::after {
 }
 
 .contact__icons .fa-facebook {
-  color: rgb(66, 103, 178);
+  color: #1877f2;
 }
 
 .contact__icons .fa-facebook:hover {
@@ -577,7 +577,7 @@ section .title::after {
 }
 
 .contact__icons .fa-twitter {
-  color: rgb(29, 161, 242);
+  color: #1da1f2;
 }
 
 .contact__icons .fa-twitter:hover {
@@ -585,7 +585,7 @@ section .title::after {
 }
 
 .contact__icons .fa-linkedin {
-  color: #1b1f23;
+  color: #0a66c2;
 }
 
 .contact__icons .fa-linkedin:hover {
