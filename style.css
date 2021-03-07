@@ -385,7 +385,7 @@ section .title::after {
 
 /* project section styling */
 .teams .title::after {
-  content: "some of my work";
+  content: "my work";
 }
 .teams .carousel .card {
   background: #222;
