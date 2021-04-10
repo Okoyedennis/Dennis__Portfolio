@@ -394,7 +394,7 @@ section .title::after {
   text-align: center;
   overflow: hidden;
   transition: all 0.3s ease;
-  height: 350px;
+  height: 250px;
   cursor: pointer;
 }
 
