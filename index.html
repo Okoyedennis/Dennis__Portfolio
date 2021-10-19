@@ -129,6 +129,17 @@
         <h2 class="title">My Project</h2>
         <div class="carousel owl-carousel">
           <div class="card">
+            <a
+              href="https://wonderful-bassi-532383.netlify.app/"
+              target="_blank"
+            >
+              <div class="box">
+                <img src="images/Virtual Banking.JPG" alt="photo" />
+                <div class="text">Virtual Banking</div>
+              </div>
+            </a>
+          </div>
+          <div class="card">
             <a href="https://hotelify07.netlify.app/" target="_blank">
               <div class="box">
                 <img src="images/hotelify.JPG" alt="photo" />
@@ -319,6 +330,7 @@
               },
               function (error) {
                 alert("Error, please check your internet connection...");
+                console.log(error);
               }
             );
             event.target.reset();
